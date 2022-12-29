@@ -18,8 +18,8 @@ Replace the Config.lua in vorp_hunting
 * To change the language go to ```resources/vorp_hunting/config.lua```
 * Now you are ready!
 
-Credits to [VORP] (https://github.com/VORPCORE)
+Credits to [VORP](https://github.com/VORPCORE)
 
 ##Easy Way to add more Animal Skinning
 - EasySkinnableAnimalsEdit 
-- [Spreadsheet] (https://docs.google.com/spreadsheets/d/1d9VQXdl8JS76N6OFf541MN1R0XMHI2f9PHPLiJapru8/edit?usp=sharing)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1d9VQXdl8JS76N6OFf541MN1R0XMHI2f9PHPLiJapru8/edit?usp=sharing)
