@@ -21,6 +21,6 @@ Replace the Config.lua in vorp_hunting
 
 Credits to [VORP](https://github.com/VORPCORE)
 
-##Easy Way to add more Animal Skinning
+## Easy Way to add more Animal Skinning
 - EasySkinnableAnimalsEdit 
 - [Spreadsheet](https://docs.google.com/spreadsheets/d/1d9VQXdl8JS76N6OFf541MN1R0XMHI2f9PHPLiJapru8/edit?usp=sharing)
