@@ -2,7 +2,8 @@ vorp_hunting with more that 150 skinable animals
 no items needed to add on database 
 Replace the Config.lua in vorp_hunting 
 
-[Screenshot](Screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/98257031/209950422-f93866c7-25e2-4a99-9ae8-d7b41fd04cf4.png)
+
 
 
 ## Requirements
