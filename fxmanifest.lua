@@ -4,8 +4,6 @@ rdr3_warning 'I acknowledge that this is a prerelease build of RedM, and I am aw
 
 author 'VORP_hunting //Edited by BigSmoke'
 description 'Hunting script with 150  skinable animals for VORP Core'
-
-
 client_script {
     'config.lua',
     'client/main.lua',
@@ -20,11 +18,6 @@ server_script {
 exports {
 	'DataViewNativeGetEventData'
 }
-
-
-
-
---dont touch
 version '1.0.4'
 vorp_checker 'yes'
 vorp_name '^4Resource version Check^3'
