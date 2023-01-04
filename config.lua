@@ -3,7 +3,7 @@
 
 Config = {}
 
-Config.DevMode = ture -- DIABLE THIS IF YOUR SERVER IS LIVE
+Config.DevMode = false -- DIABLE THIS IF YOUR SERVER IS LIVE
 
 Config.Linux = false -- If they use a Linux server, then true
 

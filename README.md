@@ -1,8 +1,9 @@
-vorp_hunting with more that 150 skinable animals 
+vorp_hunting with more than 150 skinable animals 
 no items needed to add on database 
 Replace the Config.lua in vorp_hunting 
 
-![Screenshot](Screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/98257031/209950422-f93866c7-25e2-4a99-9ae8-d7b41fd04cf4.png)
+
 
 
 ## Requirements
@@ -18,8 +19,8 @@ Replace the Config.lua in vorp_hunting
 * To change the language go to ```resources/vorp_hunting/config.lua```
 * Now you are ready!
 
-Credits to [VORP] (https://github.com/VORPCORE)
+Credits to [VORP](https://github.com/VORPCORE)
 
-##Easy Way to add more Animal Skinning
-
-EasySkinnableAnimalsEdit [Spreadsheet] (https://docs.google.com/spreadsheets/d/1d9VQXdl8JS76N6OFf541MN1R0XMHI2f9PHPLiJapru8/edit?usp=sharing)
+## Easy Way to add more Animal Skinning
+- EasySkinnableAnimalsEdit 
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1d9VQXdl8JS76N6OFf541MN1R0XMHI2f9PHPLiJapru8/edit?usp=sharing)
